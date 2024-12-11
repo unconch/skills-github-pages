@@ -1,1 +1,28 @@
-theme: minima
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Unconch</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <section class="intro">
+        <div class="content">
+            <h1>Welcome to Unconch</h1>
+            <p>Your journey to innovation starts here.</p>
+            <a href="#about" class="btn">Explore More</a>
+        </div>
+    </section>
+
+    <section id="about" class="about">
+        <h2>About Unconch</h2>
+        <p>Unconch is a place where creativity meets technology. Our mission is to provide innovative solutions that inspire and challenge the status quo.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Unconch | Designed with passion</p>
+    </footer>
+</body>
+</html>
